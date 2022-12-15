@@ -2,32 +2,32 @@
 
 ---
 
-## [Day1](./Resources/Day1.md) : Time and Space Complexity
+## [Day1 : Time and Space Complexity](./Resources/Day1.md)
 
-## [Day2](./Resources/Day2.md) : Array, 2D Array, Multidimensional Array
+## [Day2 : Array, 2D Array, Multidimensional Array](./Resources/Day2.md)
 
-## [Day3](./Resources/Day3.md) : Strings
+## [Day3 : Strings](./Resources/Day3.md)
 
-## [Day4](./Resources/Day4.md) : Sorting Algorithms (Insertion, Selection and Bubble sort)
+## [Day4 : Sorting Algorithms (Insertion, Selection and Bubble sort)](./Resources/Day4.md
 
-## [Day5](./Resources/Day5.md) : Searching Algorithm (Linear and Binary Search )
+## [Day5 : Searching Algorithm (Linear and Binary Search )](./Resources/Day5.md)
 
-## [Day6](./Resources/Day6.md) : Challenge Day 1
+## [Day6 : Challenge Day 1](./Resources/Day6.md)
 
-## [Day7](./Resources/Day7.md) : Challenge Day 2
+## [Day7 : Challenge Day 2](./Resources/Day7.md)
 
-## [Day8](./Resources/Day8.md) : Dynamic Memory Allocation
+## [Day8 : Dynamic Memory Allocation](./Resources/Day8.md)
 
-## [Day9](./Resources/Day9.md) : Pointers and Linked List
+## [Day9 : Pointers and Linked List](./Resources/Day9.md)
 
-## [Day10](./Resources/Day10.md) : Stack and Queues
+## [Day10 : Stack and Queues](./Resources/Day10.md)
 
-## [Day11](./Resources/Day11.md) : Challenge Day 3
+## [Day11 : Challenge Day 3](./Resources/Day11.md)
 
-## [Day12](./Resources/Day12.md) : Recursion
+## [Day12 : Recursion](./Resources/Day12.md)
 
-## [Day13](./Resources/Day13.md) : Recursion
+## [Day13 : Recursion](./Resources/Day13.md)
 
-## [Day14](./Resources/Day14.md) : Sorting (Quick Sort and Merge Sort)
+## [Day14 : Sorting (Quick Sort and Merge Sort)](./Resources/Day14.md)
 
-## [Day15](./Resources/Day15.md) : Basic OOPs
+## [Day15 : Basic OOPs](./Resources/Day15.md)
