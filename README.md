@@ -8,7 +8,7 @@
 
 ## [Day3 : Strings](./Resources/Day3.md)
 
-## [Day4 : Sorting Algorithms (Insertion, Selection and Bubble sort)](./Resources/Day4.md
+## [Day4 : Sorting Algorithms (Insertion, Selection and Bubble sort)](./Resources/Day4.md)
 
 ## [Day5 : Searching Algorithm (Linear and Binary Search )](./Resources/Day5.md)
 
