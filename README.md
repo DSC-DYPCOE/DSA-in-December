@@ -56,4 +56,10 @@
 
 ## [Day27 : Challenge Day 6](./Resources/Day27.md)
 
-## [Day28 : Will be updated Soon](./Resources/Day28.md)
+## [Day28 : Dynamic Programming Level-1](./Resources/Day28.md)
+
+## [Day29 : Dynamic Programming Level-2](./Resources/Day29.md)
+
+## [Day30 : Will be updated Soon](./Resources/Day30.md)
+
+## [Day31 : Will be updated Soon](./Resources/Day31.md)
