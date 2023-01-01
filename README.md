@@ -60,6 +60,6 @@
 
 ## [Day29 : Dynamic Programming Level-2](./Resources/Day29.md)
 
-## [Day30 : Will be updated Soon](./Resources/Day30.md)
+## [Day30 : Backtracking](./Resources/Day30.md)
 
-## [Day31 : Will be updated Soon](./Resources/Day31.md)
+## [Day31 : Challenge Day 7](./Resources/Day31.md)
